@@ -1,3 +1,21 @@
 {
-  "benchmarks": []
+  "benchmarks": [
+    {
+      "id": "nature-8k",
+      "name": "Nature Benchmark",
+      "detail": "8K nature footage — a heavy GPU and video-decode stress test.",
+      "resolution": "8K",
+      "ext": "mp4",
+      "sizeBytes": 3749070618,
+      "credit": "https://youtu.be/d6Oe5Oq0xQI?si=GVEEvm4Soc9IiDss",
+      "parts": [
+        "https://github.com/wersxyy/BetterMac/releases/download/benchmarks/nature.part.aa",
+        "https://github.com/wersxyy/BetterMac/releases/download/benchmarks/nature.part.ab",
+        "https://github.com/wersxyy/BetterMac/releases/download/benchmarks/nature.part.ac",
+        "https://github.com/wersxyy/BetterMac/releases/download/benchmarks/nature.part.ad",
+        "https://github.com/wersxyy/BetterMac/releases/download/benchmarks/nature.part.ae",
+        "https://github.com/wersxyy/BetterMac/releases/download/benchmarks/nature.part.af"
+      ]
+    }
+  ]
 }
